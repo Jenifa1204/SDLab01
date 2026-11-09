@@ -9,7 +9,7 @@ multiplication = a * b
 division = a / b
 modulus = a % b
 
-print("Main branch addition:", addition)
+print("Addition:",addition)
 print("Subtraction:", subtraction)
 print("Multiplication:", multiplication)
 print("Division:", division)
